@@ -1,7 +1,5 @@
 # 欢迎访问learngit项目
 
-@(git)[github|git命令手册|Markdown]
-
 **Learngit项目**是一些github常用的操作的一些地址，方便以后用到的时候快速找到。如果大家喜欢的话，可以点击star快速收藏。或是fork过去，自己添加一些常用的地址上去。特点概述：
  
 - **功能丰富** ：上面放有很多常用并且易于理解的文章；
@@ -10,7 +8,6 @@
 
 -------------------
 
-[TOC]
 
 ##实例演示一个项目learngit
 
@@ -68,6 +65,8 @@ git push -u origin master
 
 * 修复TortoiseGit文件夹和文件图标不显示：http://blog.moocss.com/tutorials/git/1823.html
 
+* 多账号 ssh key 问题: http://my.oschina.net/kimcerry/blog/665463
+
 
 ##Git操作系列教程参考手册：
 
@@ -80,6 +79,10 @@ git push -u origin master
 * 廖雪峰Git教程：http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000
 
 http://gitref.org/zh/
+
+* git help： https://help.github.com/
+
+* CODE 帮助文档 ： https://code.csdn.net/help/CSDN_Code/code_support/Index
 
 
 ##在线编辑markdown文档的编辑器

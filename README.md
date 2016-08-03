@@ -20,6 +20,7 @@
 
 * 创建项目之后会得到一个地址如：https://github.com/souvc/learngit.git
 
+* Github上面创建HelloWorld项目引导：https://guides.github.com/activities/hello-world/
 
 * 在命令行上创建一个新的存储库
 
@@ -70,6 +71,8 @@ git push -u origin master
 
 ##Git操作系列教程参考手册：
 
+git常见教程
+
 * Git命令手册：https://git-scm.com/docs
 
 * Git官方中文版教程：https://git-scm.com/book/zh/v2
@@ -85,15 +88,38 @@ http://gitref.org/zh/
 * CODE 帮助文档 ： https://code.csdn.net/help/CSDN_Code/code_support/Index
 
 
+github guides
+
+* 了解GitHub folw ：https://guides.github.com/introduction/flow/
+
+* 创建Hello World项目：https://guides.github.com/activities/hello-world/
+
+* 在github上给开源项目贡献力量：https://guides.github.com/activities/contributing-to-open-source/
+
+* GitHub Pages的使用：https://guides.github.com/features/pages/
+
+* 从github上面获取项目： https://guides.github.com/introduction/getting-your-project-on-github/
+
+* Forking 项目：https://guides.github.com/activities/forking/
+
+* Be Social ：https://guides.github.com/activities/socialize/
+
+* Making Your Code Citable ：https://guides.github.com/activities/citable-code/
+
+* Mastering Issues： https://guides.github.com/features/issues/
+
+* Mastering Markdown ：https://guides.github.com/features/mastering-markdown/
+
+* Mastering Wikis ：https://guides.github.com/features/wikis/
+
+
 ##在线编辑markdown文档的编辑器
 
 * 马克飞象：https://maxiang.io/
 
 * mahua：http://mahua.jser.me/
 
-
-
-
+* github markdown格式引导：https://guides.github.com/features/mastering-markdown/
 
 
 

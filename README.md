@@ -113,16 +113,19 @@ github guides
 * Mastering Wikis ：https://guides.github.com/features/wikis/
 
 
-##在线编辑markdown文档的编辑器
+##Markdown文档的编辑器
 
-* 马克飞象：https://maxiang.io/
+* [马克飞象](https://maxiang.io/)
 
-* mahua：http://mahua.jser.me/
+* [MaHua](http://mahua.jser.me/) [开源源码](https://github.com/jserme/mahua)
 
-* github markdown格式引导：https://guides.github.com/features/mastering-markdown/
+* [Github Mardown格式引导](https://guides.github.com/features/mastering-markdown/)
 
+* [editor.md](https://pandao.github.io/editor.md/) [开源源码](https://github.com/pandao/editor.md)
 
+* [开源中国Mardown编译器](http://tool.oschina.net/markdown/)
 
+* [Cmd Markdown](https://www.zybuluo.com/mdeditor)
 
 
 

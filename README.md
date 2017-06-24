@@ -9,7 +9,7 @@
 -------------------
 
 
-##实例演示一个项目learngit
+## 实例演示一个项目learngit
 
 
 * 创建一个github项目，名字为：learngit
@@ -52,7 +52,7 @@ git push -u origin master
 
 
 
-##本地软件环境的搭建资料准备:
+## 本地软件环境的搭建资料准备:
 
 *  [Git客户端](https://git-scm.com/download/)
 *  [TortoiseGit客户端下载1](https://download.tortoisegit.org/)
@@ -67,7 +67,7 @@ git push -u origin master
 * [多账号 ssh key 问题](http://my.oschina.net/kimcerry/blog/665463)
 
 
-##Git操作系列教程参考手册：
+## Git操作系列教程参考手册：
 
 * [Git命令手册](https://git-scm.com/docs)
 * [Git官方中文版教程](https://git-scm.com/book/zh/v2)
@@ -78,7 +78,7 @@ git push -u origin master
 * [CSDN CODE 帮助文档](https://code.csdn.net/help/CSDN_Code/code_support/Index) 
 
 
-##Github Guides
+## Github Guides
 
 * [了解GitHub folw](https://guides.github.com/introduction/flow/)
 * [创建Hello World项目](https://guides.github.com/activities/hello-world/)
@@ -93,7 +93,7 @@ git push -u origin master
 * [Mastering Wikis](https://guides.github.com/features/wikis/)
 
 
-##Markdown文档的编辑器
+## Markdown文档的编辑器
 
 * [马克飞象](https://maxiang.io/)
 * [MaHua](http://mahua.jser.me/) [开源源码](https://github.com/jserme/mahua)

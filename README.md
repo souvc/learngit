@@ -103,6 +103,27 @@ git push -u origin master
 * [Cmd Markdown](https://www.zybuluo.com/mdeditor)
 
 
+测试处理冲突
+
+1.本地添加一个代码。
+
+```java
+
+ @CacheEvict(value = { "labelPrintRecord" }, allEntries = true)
+    @Override
+    public void modifyObj(LabelPrintRecord t) {
+        if (StringUtils.isBlank(t.getId())) {
+            throw new NullPointerException("id 为空，无法更新");
+        }
+        this.labelPrintRecordMapper.updateByPrimaryKeySelective(t);
+    }
+
+```
+
+
+
+
+
 
 2.服务器也更新了代码，测试冲突
 
